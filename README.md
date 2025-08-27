@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨I’m a Detail-oriented and highly motivated Frontend Developer with over 1.5 years of hands-on experience in building responsive and dynamic web  applications.<br><br>📚I specialize in developing User Interfaces (UIs) using React.js, JavaScript (ES6+), HTML5, and CSS3, with practical experience in TypeScript, Bootstrap 5, Tailwind CSS.<br><br>🎯 I focus on translating user and business requirements into clean, scalable, and maintainable UI components, and I contributed to building an AI-powered Messenger chatbot using Gemini AI at H2M.<br><br>🎲As a strong collaborator with excellent problem-solving skills, I am always seeking to contribute to innovative projects in a growth-oriented development team.</p>
+<p align="left">✨I’m a Detail-oriented and highly motivated Frontend Developer with over 2 years of hands-on experience in building responsive and dynamic web  applications.<br><br>📚I specialize in developing User Interfaces (UIs) using React.js, JavaScript (ES6+), HTML5, and CSS3, with practical experience in TypeScript, Bootstrap 5, Tailwind CSS.<br><br>🎯 I focus on translating user and business requirements into clean, scalable, and maintainable UI components, and I contributed to building an AI-powered Messenger chatbot using Gemini AI at H2M.<br><br>🎲As a strong collaborator with excellent problem-solving skills, I am always seeking to contribute to innovative projects in a growth-oriented development team.</p>
 
 ###
 
